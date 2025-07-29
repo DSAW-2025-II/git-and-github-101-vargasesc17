@@ -2,7 +2,7 @@
 # Desarrollo de Aplicaciones Web
 ## Taller Git y Github
 ### Universidad de La Sabana
-#### 2025 - I
+#### 2025 - II
 
 ---------------------------
 
